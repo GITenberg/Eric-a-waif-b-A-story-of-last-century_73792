@@ -1,5 +1,8 @@
 _repo: Eric-a-waif-b-A-story-of-last-century_73792
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leslie, Emma
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8498
     wikipedia: https://en.wikipedia.org/wiki/Emma_Leslie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73792#Eric-a-waif-b-A-story-of-last-century
 gutenberg_issued: '2024-06-08'
 gutenberg_type: Text
 identifiers:
